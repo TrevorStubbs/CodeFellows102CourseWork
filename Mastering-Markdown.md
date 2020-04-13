@@ -50,9 +50,11 @@ if(isAwesome)
 }
 ```
 
-## Github only Extras
+## Naming someone (Github) 
 
 - You can comment someone directly by using @TrevorStubbs
+
+## Task Lists (Github)
 
 Markdown also supports task lists:
 - [x] item one
@@ -73,6 +75,6 @@ Content in the first column | Content from the second column
 
 - 2 tildes will ~~strikeout~~ a word.
 
-## Github Emoji
+## Emoji (Github)
 
 :grinning:
