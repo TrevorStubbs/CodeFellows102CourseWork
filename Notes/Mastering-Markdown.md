@@ -12,8 +12,9 @@
 
 ### Ordered lists
 1. I am # one
-2. I am number 2.
-3. I am number 3.
+1. I am number 2 (But I says I'm number 1)
+1. I am number 3 (But I says I'm number 1)
+1. I am number 4 (But I says I'm number 1)
 
 ### Unordered Lists
 * I am using a star
@@ -28,7 +29,7 @@
 
 ### 3rd tier header
 ###### I am the least important at 6th tier header
-
+ 
 > I am a indent quote
 >-Said by me
 
